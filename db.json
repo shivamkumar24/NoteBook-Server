@@ -34,5 +34,21 @@
       "userID": 1685261190289,
       "id": 6
     }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "ExpressJS",
+      "description": "ExpressJS",
+      "priorities": "Hard",
+      "userID": 1685261190289
+    },
+    {
+      "id": 2,
+      "title": "Redux",
+      "description": "Learn Redux",
+      "priorities": "Medium",
+      "userID": 1685261190289
+    }
   ]
 }
